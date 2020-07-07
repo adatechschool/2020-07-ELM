@@ -8,14 +8,15 @@ Conseil: Lisez en premier la fiche projet, pour savoir vers quelle partie du pro
 Contraintes
 
 ---------------
-En binômes ou trinômes
-Langage : Elm
-Durée : 1 semaine
-Notions abordées:
-La programmation fonctionnelle
-La compilation
-L’immutabilité
-Les tests
+
+En binômes ou trinômes<br>
+Langage : Elm<br>
+Durée : 1 semaine<br>
+Notions abordées:<br>
+La programmation fonctionnelle <br>
+La compilation<br>
+L’immutabilité<br>
+Les tests<br>
 
 ----------------
 ### Se préparer
