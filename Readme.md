@@ -12,10 +12,10 @@ En binômes ou trinômes
 Langage : Elm
 Durée : 1 semaine
 Notions abordées:
-  La programmation fonctionnelle
-  La compilation
-  L’immutabilité
-  Les tests
+La programmation fonctionnelle
+La compilation
+L’immutabilité
+Les tests
 
 ----------------
 ### Se préparer
